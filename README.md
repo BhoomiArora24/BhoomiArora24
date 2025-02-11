@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Bhoomi Arora!
+🎓 BCA Student | 💻 Full Stack Developer | 🚀 Passionate about Dynamic Projects
 
-<!--
-**BhoomiArora24/BhoomiArora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+I am a full-stack developer with a strong passion for building dynamic and interactive web applications. Currently, I am focused on enhancing my problem-solving skills by learning data structures and algorithms in Java. I enjoy working on various projects that push my boundaries and help me grow as a developer.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: PHP, Java
+Database: MySQL
+Version Control: Git, GitHub
+Payment Integration: Working with online payment gateways
+Other: Data Structures & Algorithms in Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Current Focus
+Developing real-world projects to apply and refine my full-stack development skills
+Strengthening my problem-solving abilities by practicing data structures and algorithms in Java
+Gaining deeper insights into backend optimization, database management, and scalable architecture
+Exploring advanced concepts in payment integration and secure transactions
+
+📚 Continuous Learning
+I believe in lifelong learning and staying updated with the latest technologies. I am constantly exploring new tools, frameworks, and best practices to improve my skills and build better software solutions.
+
+📬 Let's Connect!
+Feel free to reach out and connect with me on GitHub! 🚀
