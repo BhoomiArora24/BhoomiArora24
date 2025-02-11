@@ -13,10 +13,15 @@ I am a full-stack developer with a strong passion for building dynamic and inter
 🚀 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP, Java
+
 Database: MySQL
+
 Version Control: Git, GitHub
+
 Payment Integration: Working with online payment gateways
+
 Other: Data Structures & Algorithms in Java
 
 ---
