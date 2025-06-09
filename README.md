@@ -14,6 +14,8 @@ I am a full-stack developer with a strong passion for building dynamic and inter
 
 Frontend: HTML, CSS, JavaScript
 
+Library: React.js
+
 Backend: PHP, Java
 
 Database: MySQL
