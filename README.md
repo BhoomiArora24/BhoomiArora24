@@ -12,9 +12,7 @@ I am a full-stack developer with a strong passion for building dynamic and inter
 
 🚀 Tech Stack
 
-Frontend: HTML, CSS, JavaScript
-
-Library: React.js
+Frontend: HTML, CSS, JavaScript, React.js
 
 Backend: PHP, Java
 
